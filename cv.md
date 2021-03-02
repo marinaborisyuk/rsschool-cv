@@ -3,9 +3,7 @@
 #### Contacts for communication
 
 +375292215877 
-
 marinaborisyuk1@gmail.com
-
 [LinkedIn](https://www.linkedin.com/in/marina-borisyuk-2a873b205)
 
 ---

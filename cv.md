@@ -18,7 +18,8 @@ overcome difficulties. It is important for me to make progress and not to stand 
 
 #### Skills
 
-- C/C++, JavaScript
+- C/C++
+- JavaScript
 - HTML/CSS
 - OOP
 - Git/GitHub

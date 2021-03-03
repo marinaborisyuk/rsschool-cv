@@ -1,7 +1,8 @@
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Karla', sans-serif;
+    background-color: #E5E5E5;
 	color: #201b2d;
-	font-size: 15px;
+	font-size: 15.5px;
 	margin: 0;
 	padding: 0;
 }
@@ -13,7 +14,7 @@ div, p, input, button, form, span, a, ul, li {
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	text-decoration: none;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 
 p {
@@ -21,35 +22,61 @@ p {
 }
 
 .page {
-    width: 690px;
+    width: 880px;
     margin: 0 auto;
     display: flex;
 }
 
 .gray-block {
-    width: 245px;
-    background-color: #DCDCDC;
-}
-
-.avatar {
-    margin: 20px 0px;
+    width: 260px;
+    background-color: #f5f5f5;
 }
 
 .photo {
     width: 150px;
     border-radius: 100px;
-    margin: 20px 40px;
+    margin: 40px 55px;
 }
 
 .container {
-    margin: 0px 20px;
+    margin: 10px 20px;
 }
 
 .title {
     border-bottom: 2px solid #201b2d;
-    
+}
+
+.skills {
+    padding: 0 0 0 20px;
 }
 
 .white-block {
-    width: 450px;
+    background-color: white;
+    width: 620px;
+    margin: 0 auto;
+    padding: 40px 0;;
+}
+
+.name {
+    font-size: 46px;
+}
+
+.profession {
+    padding: 15px 5px;
+    font-size: 20px;
+}
+
+.contacts {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 20px;
+}
+
+.contact-img {
+    width: 17px;
+}
+
+.linkedin-name {
+    text-decoration: none;
+    color: #201b2d;
 }

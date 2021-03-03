@@ -16,7 +16,7 @@ overcome difficulties. It is important for me to make progress and not to stand 
 ```
 ---
 
-#### Attainments
+#### Skills
 
 - C/C++, JavaScript
 - HTML/CSS

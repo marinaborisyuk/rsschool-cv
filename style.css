@@ -1,0 +1,55 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #201b2d;
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+}
+
+div, p, input, button, form, span, a, ul, li {
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+}
+
+p {
+	line-height: 1.65em;
+}
+
+.page {
+    width: 690px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.gray-block {
+    width: 245px;
+    background-color: #DCDCDC;
+}
+
+.avatar {
+    margin: 20px 0px;
+}
+
+.photo {
+    width: 150px;
+    border-radius: 100px;
+    margin: 20px 40px;
+}
+
+.container {
+    margin: 0px 20px;
+}
+
+.title {
+    border-bottom: 2px solid #201b2d;
+    
+}
+
+.white-block {
+    width: 450px;
+}

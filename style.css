@@ -43,7 +43,7 @@ p {
 }
 
 .title {
-    border-bottom: 2px solid #201b2d;
+    border-bottom: 2px solid #808080;
 }
 
 .skills {
@@ -83,21 +83,22 @@ p {
 }
 
 .education {
-    margin-top: 42px;
+    margin-top: 42.5px;
 }
 
 .wrapper {
     display: flex;
+    justify-content: space-between;
+    margin: 15px 0;
 }
 
 .institution {
-    width: 150px;
-    padding: 0 15px;
-    border-right: 1px double #201b2d;
-    margin: auto 0; 
+    margin: auto 0;
+    padding-left: 10px;
 }
 
 .inst-info {
     width: 405px;
-    padding-left: 15px;
+    padding: 0 15px;
+    border-left: 1px solid #808080;
 }

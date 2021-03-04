@@ -73,10 +73,31 @@ p {
 }
 
 .contact-img {
-    width: 17px;
+    width: 17px; 
 }
 
 .linkedin-name {
     text-decoration: none;
     color: #201b2d;
+    font-size: 15.5px;
+}
+
+.education {
+    margin-top: 42px;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.institution {
+    width: 150px;
+    padding: 0 15px;
+    border-right: 1px double #201b2d;
+    margin: auto 0; 
+}
+
+.inst-info {
+    width: 405px;
+    padding-left: 15px;
 }

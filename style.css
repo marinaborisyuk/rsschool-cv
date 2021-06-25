@@ -70,14 +70,19 @@ p {
     font-size: 20px;
 }
 
-.contacts {
+ul.contacts {
     display: flex;
     justify-content: space-between;
     margin: 20px 30px;
+    padding: 0;
 }
 
 .option-contact {
     list-style-type: none;
+}
+
+.option-contact span, a {
+    vertical-align: top;
 }
 
 .contact-img {
@@ -91,7 +96,7 @@ p {
 }
 
 .education {
-    margin-top: 44px;
+    margin: 44px 0 40px;
 }
 
 .wrapper {
@@ -110,7 +115,7 @@ p {
 }
 
 .cover .lang-skill {
-    margin: 15px 0;
+    margin: 25px 0;
 }
 
 .lang-skill h5 {
@@ -129,7 +134,7 @@ p {
 
 .a2 {
     height: 100%;
-    width: 50%;
+    width: 60%;
     background-color: dimgray;
     position: absolute;
     border-radius: 10px;
@@ -140,7 +145,7 @@ p {
     background-color: dimgray;
     position: absolute;
     border-radius: 10px;
-    width: 75%;   
+    width: 60%;   
 }
 
 .footer {
@@ -148,31 +153,23 @@ p {
 } 
 
 .footer-container {
-    width: 100%;
-    margin: 40px 20px 0 20px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.git-img  {
+    width: 30px;
+}
+
+.contact-container p {
+    font-size: 12px;
+} 
+
+.git-img  {
+    width: 30px;
+}
+
+.contact-container {
     display: flex;
-    justify-content: space-between;
-    
-}
-
-.git-img  {
-    width: 30px;
-}
-
-.rs-img {
-    width: 90px;
-}
-.contact-container p {
-    font-size: 12px;
-}
-
-.git-img  {
-    width: 30px;
-}
-
-.rs-img {
-    width: 90px;
-}
-.contact-container p {
-    font-size: 12px;
+    align-items: center;
 }

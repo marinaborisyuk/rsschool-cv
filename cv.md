@@ -18,11 +18,12 @@ overcome difficulties. It is important for me to make progress and not to stand 
 
 #### Skills
 
-- C/C++
 - JavaScript
 - HTML/CSS
+- C/C++
 - OOP
 - Git/GitHub
+- PostrgeSQL/MongoDB
 
 ---
 
@@ -40,5 +41,4 @@ Specialty: Information systems and technologies (in the economy).
 
 #### Language
 
-German B1, English A2+.
-"General English Course A2+", Streamline 2021.  
+English B1, German B1.  
